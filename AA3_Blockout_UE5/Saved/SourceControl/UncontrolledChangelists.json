@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/estudiooos/Repositorios/AA3-Blockout_con_Logica_Basica_UE5/AA3_Blockout_UE5/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
